@@ -29,7 +29,7 @@ function App() {
               {/* <h2>Задача 6: Контекст данных</h2>
               <DataViewer /> */}
 
-              <h2>Задача 1: Панель настроек</h2>
+              <h2>Задача 1: Коннтекст, панель настроек и артикль</h2>
               <BlogSettingsProvider>
                 <SettingsPanel />
                 <Article />
